@@ -1,6 +1,5 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1831b76f-8d35-492e-9506-ff67cf580ea6/deploy-status)](https://app.netlify.com/sites/javasctipcalculator-react/deploys)
-
- See [demo](https://calculatorreact.netlify.app/)
+# Javascript Calculator React
+[Live Site](https://ajf013.github.io/javascript-calculator-react/)
 
 # Simple Calculator
 
